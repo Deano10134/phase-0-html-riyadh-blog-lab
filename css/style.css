@@ -13,7 +13,7 @@ body {
   font-size: 100%;
 }
 
-.wrapper {
+.wrapper {[]
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ffffff;
 }
 
 h1 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(212, 138, 138);
   text-decoration: none;
 }
 
